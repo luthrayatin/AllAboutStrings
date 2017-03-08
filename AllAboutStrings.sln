@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsConsoleApp", "StringsConsoleApp\StringsConsoleApp.csproj", "{A2CD3C18-345F-4204-8FA7-50FECB9882BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringWorks", "StringWorks\StringWorks.csproj", "{9573D229-B532-4ECE-8E19-891A8DF203ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A2CD3C18-345F-4204-8FA7-50FECB9882BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2CD3C18-345F-4204-8FA7-50FECB9882BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2CD3C18-345F-4204-8FA7-50FECB9882BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9573D229-B532-4ECE-8E19-891A8DF203ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9573D229-B532-4ECE-8E19-891A8DF203ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9573D229-B532-4ECE-8E19-891A8DF203ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9573D229-B532-4ECE-8E19-891A8DF203ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
